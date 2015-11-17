@@ -95,13 +95,15 @@
         android:layout_marginLeft="150dp"
         android:textSize="20dp" />
 
-    <DatePicker
+
+    <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/dtpDate"
+        android:id="@+id/EtxfromDate"
         android:layout_below="@+id/chbAcquisition"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"/>
+        android:layout_alignParentStart="true"
+        android:text="enter date" />
 
 </RelativeLayout>
-<!-- From: file:/C:/Users/Marianne/Documents/GitHub/EjendomsselskabetBMAppNew/app/src/main/res/layout/activity_main.xml -->
+<!-- From: file:/C:/Users/Martin/AndroidStudioProjects/EjendomsselskabetBMApp/app/src/main/res/layout/activity_main.xml -->
