@@ -88,10 +88,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     @Override
                     public void onClick(View v) {
 
-                        Date dato = new Date(date.getYear() - 1900, date.getMonth(), date.getDayOfMonth());
+                        //Date dato = new Date(date.getYear() - 1900, date.getMonth(), date.getDayOfMonth());
                         //String selectedDate = DateFormat.getDateInstance().format(date.getYear());
-                        String selectedDate = date.getDayOfMonth() + "/" + (date.getMonth() + 1) + "/" + date.getYear();
-                        Log.d("Valgte år er: ", selectedDate + " " + dato.toString());
+                        String selectedDate = Donedate.getText().toString();
+                        //Log.d("Valgte år er: ", selectedDate + " " + dato.toString());
                         Inspectionlist myList = new Inspectionlist(selectedDate,
                                 roomNr.getText().toString(),
                                 address.getText().toString(),
