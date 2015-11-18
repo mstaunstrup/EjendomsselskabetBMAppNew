@@ -25,4 +25,4 @@
         android:layout_centerHorizontal="true"
         android:layout_below="@id/passedText" />
 </RelativeLayout>
-<!-- From: file:/C:/Users/Benedikte%20Brechmann/Documents/GitHub/EjendomsselskabetBMAppNew/app/src/main/res/layout/activity_single_task.xml -->
+<!-- From: file:/C:/Users/Martin/AndroidStudioProjects/EjendomsselskabetBMApp/app/src/main/res/layout/activity_single_task.xml -->
