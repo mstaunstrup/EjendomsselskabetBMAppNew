@@ -33,6 +33,10 @@ public class Forside extends AppCompatActivity {
         Intent intent = new Intent(this,TaskListe.class);
         startActivity(intent);
     }
+    public void NewlistOfTaskButtonOnClick(View view){
+        Intent intent = new Intent(this,NewTaskList.class);
+        startActivity(intent);
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
