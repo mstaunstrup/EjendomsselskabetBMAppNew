@@ -6,4 +6,6 @@
     <string name="title_activity_forside">Forside</string>
     <string name="title_activity_task_liste">TaskListe</string>
     <string name="title_activity_single_task">SingleTask</string>
+    <string name="title_activity_new_task_list">NewTaskList</string>
+    <string name="section_format">Hello World from section: %1$d</string>
 </resources>
