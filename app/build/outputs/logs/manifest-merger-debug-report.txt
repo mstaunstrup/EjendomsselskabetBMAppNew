@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml:2:1-50:12
 	package
 		ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml:3:5-58
 		INJECTED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml
@@ -14,9 +14,14 @@ ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\
 		INJECTED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml:5:5-39:19
-MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml:5:5-48:19
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml:8:9-41
 	android:allowBackup
@@ -69,10 +74,26 @@ ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\
 		ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml:37:13-63
 	android:name
 		ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml:36:13-39
+activity#com.example.marianne.ejendomsselskabetbmapp.NewTaskList
+ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml:39:9-47:20
+	android:label
+		ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml:41:13-65
+	android:parentActivityName
+		ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml:42:13-50
+	android:theme
+		ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml:40:13-40
 uses-sdk
 INJECTED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		INJECTED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Martin\AndroidStudioProjects\EjendomsselskabetBMApp\app\src\main\AndroidManifest.xml
